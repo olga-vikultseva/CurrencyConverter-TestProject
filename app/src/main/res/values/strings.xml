@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="converter_original_field_label">You have</string>
+    <string name="converter_final_field_label">You get</string>
+    <string name="button_error_try_again">Try again</string>
+</resources>
